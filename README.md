@@ -48,6 +48,14 @@
 | --- | --- | --- |
 | ![Season Animate](./profile-3d-contrib/profile-season-animate.svg) | ![Night Animate](./profile-3d-contrib/profile-night-animate.svg) | ![Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg) |
 
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirxfoysal/amirxfoysal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirxfoysal/amirxfoysal/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/amirxfoysal/amirxfoysal/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ⭐️ From [amirxfoysal](https://github.com/amirxfoysal)

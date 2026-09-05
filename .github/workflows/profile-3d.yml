@@ -1,6 +1,9 @@
 name: GitHub Profile 3D Contrib
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs daily at 00:20 Asia/Dhaka (18:20 UTC)
     - cron: "20 18 * * *"
